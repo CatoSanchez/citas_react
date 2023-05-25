@@ -27,7 +27,7 @@ const ListadoPacientes = ({ pacientes, setPaciente, eliminarPaciente }) => {
         </>
       ) : (
         <>
-          <h2 className="text-red-500 text-2xl text-center font-bold">
+          <h2 className="text-neutral-800 text-2xl text-center font-bold">
             No hay Pacientes
           </h2>
           <p className="text-slate-300 file:text-lg mt-5 text-center mb-5">
